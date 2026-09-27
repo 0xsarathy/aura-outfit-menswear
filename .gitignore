@@ -1,0 +1,11 @@
+# Environment & OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local scratch
+*.tmp
